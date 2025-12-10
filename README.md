@@ -1,4 +1,4 @@
-# tableau-superstore-dashboard
+# Tableau-superstore-dashboard
 Tableau Sales &amp; Profit dashboard using Superstore dataset
 # Sales & Profit Dashboard for Tableau Superstore
 
